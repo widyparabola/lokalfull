@@ -1396,3 +1396,89 @@ http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/197999
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",SPORT: AR - beIN Sports News HD
 http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198000
+
+#EXTM3U
+#EXTINF:-1,TVRI - LOCAL
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,ANTV - LOCAL
+http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TRANS7 - LOCAL
+http://202.80.222.130/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,METRO TV - LOCAL
+http://202.80.222.130/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,INDOSIAR - LOCAL
+http://202.80.222.130/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TV ONE - LOCAL
+http://202.80.222.130/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,SCTV - LOCAL
+http://202.80.222.130/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TRANS TV - LOCAL
+http://202.80.222.130/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,GLOBAL TV - LOCAL
+http://202.80.222.130/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,NET TV - LOCAL
+http://202.80.222.130/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,KOMPAS TV - LOCAL
+http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,RAJAWALI TV - LOCAL
+http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,BERITA SATU - LOCAL
+http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,JAKTV - LOCAL
+http://202.80.222.130/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TV9 - LOCAL
+http://202.80.222.130/000001/2/ch00000000000000001522/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,DAAI TV - LOCAL
+http://202.80.222.130/000001/2/ch00000090990000001706/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,THRILL ID - MOVIE
+http://202.80.222.130/000001/2/ch14091014374369601668/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,ZEE BIOSKOP - MOVIE
+http://202.80.222.130/000001/2/ch18050415253550847033/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,LIFE - KNOWLEDGE 
+http://202.80.222.130/000001/2/ch15051810244348873197/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,HIDAYAH - KNOWLEDGE
+http://202.80.222.130/000001/2/ch14042115480369186908/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC NEWS - NEWS
+http://202.80.222.130/000001/2/ch14041511564438196910/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC ENTERTAINMENT - ENTERTAINMENT
+http://202.80.222.130/000001/2/ch14041511585459217880/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,AUTO GADGET
+http://202.80.222.130/000001/2/ch15060913243195524436/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC SHOP - LIFESTYLE
+http://202.80.222.130/000001/2/ch14042116313092107617/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC LIFESTYLE - LIFESTYLE
+http://202.80.222.130/000001/2/ch14042115455097827083/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,HEALTY BEAUTY - LIFESTYLE
+http://202.80.222.130/000001/2/ch15010918423014569476/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC FASHION - LIFESTYLE
+http://202.80.222.130/000001/2/ch14041514205580055265/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,HOME LIVING - LIFESTYLE
+http://202.80.222.130/000001/2/ch14121910140294885803/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,EXTREME CHANNEL - LIFESTYLE
+http://202.80.222.130/000001/2/ch17112110144611208019/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,INFOTRAINMENT - ENTERTAINMENT
+http://202.80.222.130/000001/2/ch14041512001060787776/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,FOOD TRAVEL - LIFESTYLE
+http://202.80.222.130/000001/2/ch14041514171573823676/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,IDX CHANNEL - NEWS
+http://202.80.222.130/000001/2/ch14042115424530214011/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,COMEDY CHANNEL - ENTERTAINMENT
+http://202.80.222.130/000001/2/ch14061214064040168714/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,GAMES CHANNEL - ENTERTAINMENT
+http://202.80.222.130/000001/2/ch15092109552025062916/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC CHANNEL - ENTERTAINMENT
+http://202.80.222.130/000001/2/ch18040213194357388223/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MUSIC CHANNEL - MUSIC
+http://202.80.222.130/000001/2/ch14041511582088062293/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,HITS - ENTERTAINMENT
+http://202.80.222.130/000001/2/ch15010713414035158349/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,ALJAZEERA - NEWS
+http://202.80.222.130/000001/2/ch16061615334440670610/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,RT NEWS - NEWS
+http://202.80.222.130/000001/2/ch00000090990000001717/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,FRANCE 24 - NEWS
+http://202.80.222.130/000001/2/ch16062015274821614237/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,DW CHANNEL - NEWS
+http://202.80.222.130/000001/2/ch17092617422344791446/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TRT WORLD - NEWS
+http://202.80.222.130/000001/2/ch00000090990000001721/index.m3u8?virtualDomain=000001.live_hls.zte.com
